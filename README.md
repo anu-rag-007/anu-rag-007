@@ -2,7 +2,7 @@
 
 # Anurag Sharma
 
-**B.Tech CSE (AI&ML) · 2nd Semester · Building LUCID: Reality?**
+**B.Tech CSE (AI&ML) · 3rd Semester · Building LUCID: Reality?**
 
 [![GitHub followers](https://img.shields.io/github/followers/anu-rag-007?style=flat&color=1D9E75&labelColor=0d1117)](https://github.com/anu-rag-007)
 [![LeetCode](https://img.shields.io/badge/LeetCode-40%2B%20problems-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/bNmEa5unUW/)
