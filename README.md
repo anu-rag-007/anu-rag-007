@@ -42,7 +42,7 @@ EEG signal → CNN-LSTM classifier → REM detection
 | 003        | CNN-LSTM Hybrid    | 80.14%   | 0.71  |
 | 004        | CNN+Transformer    | 79.00%   | —     |
 | 005        | LOSO Validation    | 77.17%   | 0.67  |
-| 006        | Full 153 subjects   | TBD      | TBD   |
+| 006        | Full 153 subjects   | 75.59%   | 0.68  |
 
 **Tech stack:**
 PyTorch · MNE-Python · scikit-learn · NumPy · SciPy
@@ -126,7 +126,7 @@ Stack & Queue ████████████ ✅
 Trees & Recursion ████████████ ✅
 Sliding Window ████████████ ✅
 Linked Lists ████████████ ✅
-Graphs ████████░░░░ in progress
+Graphs ████████████ ✅
 Dynamic Programming ████████░░░░ in progress
 
 **40+ problems solved · 7 core patterns**
