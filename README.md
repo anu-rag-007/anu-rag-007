@@ -178,6 +178,7 @@ that is Artificial Reality.
 - 🔗 LinkedIn — [linkedin.com/in/anurag-sharma-2a8b3b371](https://linkedin.com/in/anurag-sharma-2a8b3b371)
 - 📊 Kaggle — [kaggle.com/anuragsharma07112006](https://kaggle.com/anuragsharma07112006)
 - 🧪 Project 07 — [github.com/anu-rag-007/PROJECT-07](https://github.com/anu-rag-007/PROJECT-07)
+- 🗜️ ORCid — [orcid.org/my-orcid?orcid=0009-0004-2479-2126](https://orcid.org/my-orcid?orcid=0009-0004-2479-2126)
 
 ---
 
