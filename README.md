@@ -154,7 +154,7 @@ Phase 3 (Year 3): 3D world generation + navigation
 Phase 4 (Year 5): Multi-user shared dream world
 Phase 5 (Year 10): Full Artificial Reality platform
 
-The dream: when two people can enter the same generated
+The dream: when multiple people can enter the same generated
 world through sleep, indistinguishable from reality —
 that is Artificial Reality.
 
