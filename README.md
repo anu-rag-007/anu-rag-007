@@ -30,6 +30,9 @@ I call this technology **Artificial Reality**.
 
 ## Project 07 — LUCID: Reality?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21885881.svg)](https://doi.org/10.5281/zenodo.21885881)
+
+
 My primary research project. A complete BCI pipeline:
 EEG signal → CNN-LSTM classifier → REM detection
 → safety interlock → haptic trigger
@@ -48,6 +51,23 @@ EEG signal → CNN-LSTM classifier → REM detection
 PyTorch · MNE-Python · scikit-learn · NumPy · SciPy
 
 [![PROJECT-07](https://img.shields.io/badge/PROJECT--07-View%20Repo-534AB7?style=for-the-badge&logo=github)](https://github.com/anu-rag-007/PROJECT-07)
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{sharma2026lucid,
+  author    = {Sharma, Anurag},
+  title     = {Automated Sleep Stage Classification 
+               for Closed-Loop Lucid Dream Induction 
+               via CNN-LSTM on Single-Channel EEG},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21885881},
+  url       = {https://doi.org/10.5281/zenodo.21885881}
+}
+```
 
 ---
 
