@@ -32,6 +32,12 @@ I call this technology **Artificial Reality**.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21885881.svg)](https://doi.org/10.5281/zenodo.21885881)
 
+Closed-loop BCI for automated lucid dream induction.
+CNN-LSTM sleep stage classifier · κ=0.68 on 153 subjects · 
+Working haptic trigger · **Published preprint**.
+
+→ [Paper](https://doi.org/10.5281/zenodo.21885881)
+→ [Code](https://github.com/anu-rag-007/PROJECT-07)
 
 My primary research project. A complete BCI pipeline:
 EEG signal → CNN-LSTM classifier → REM detection
