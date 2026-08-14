@@ -121,7 +121,7 @@ CNN-LSTM sleep stage classifier · 80.14% accuracy · Working haptic trigger.
 
 ### 📊 Journey to the BEST
 Complete ML learning journey — from Python basics to
-transformers. 40+ LeetCode solutions, weekly notebooks,
+transformers. 50 LeetCode solutions, weekly notebooks,
 Kaggle projects (Titanic 78%), neural network from scratch.
 → [github.com/anu-rag-007/Journey-to-the-BEST](https://github.com/anu-rag-007/Journey-to-the-BEST)
 
