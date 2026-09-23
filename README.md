@@ -5,7 +5,7 @@
 **B.Tech CSE (AI&ML) · 3rd Semester · Building LUCID: Reality?**
 
 [![GitHub followers](https://img.shields.io/github/followers/anu-rag-007?style=flat&color=1D9E75&labelColor=0d1117)](https://github.com/anu-rag-007)
-[![LeetCode](https://img.shields.io/badge/LeetCode-50+%20problems-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/bNmEa5unUW/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-80+%20problems-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/bNmEa5unUW/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/anurag-sharma-2a8b3b371)
 
 </div>
