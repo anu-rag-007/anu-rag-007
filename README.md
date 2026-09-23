@@ -164,7 +164,7 @@ Dynamic Programming ████████░░░░ in progress
 - 🔬 **Experiment 006** — Expanding Sleep-EDF to 153 subjects
 - 📄 **Paper draft** — IEEE TNSRE submission preparation
 - 💡 **Real-time pipeline** — Muse S integration plan
-- 📚 **Week 9** of AI/ML self-study roadmap
+- 📚 **Week 11** of AI/ML self-study roadmap
 
 ---
 
